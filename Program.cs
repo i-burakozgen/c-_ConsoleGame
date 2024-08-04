@@ -45,23 +45,18 @@ while (!shouldExit)
 }
 
 
-// Returns true if the Terminal was resized 
 bool TerminalResized() 
 {
     return height != Console.WindowHeight - 1 || width != Console.WindowWidth - 5;
 }
 
-// Displays random food at a random location
 void ShowFood() 
 {
-    // Update food to a random index
     food = random.Next(0, foods.Length);
 
-    // Update food position to a random location
     foodX = random.Next(0, width - player.Length);
     foodY = random.Next(0, height - 1);
 
-    // Display the food at the location
     Console.SetCursorPosition(foodX, foodY);
     Console.Write(foods[food]);
 }
