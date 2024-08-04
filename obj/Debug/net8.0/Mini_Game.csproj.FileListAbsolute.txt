@@ -1,0 +1,15 @@
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/bin/Debug/net8.0/Mini_Game
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/bin/Debug/net8.0/Mini_Game.deps.json
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/bin/Debug/net8.0/Mini_Game.runtimeconfig.json
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/bin/Debug/net8.0/Mini_Game.dll
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/bin/Debug/net8.0/Mini_Game.pdb
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/obj/Debug/net8.0/Mini_Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/obj/Debug/net8.0/Mini_Game.AssemblyInfoInputs.cache
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/obj/Debug/net8.0/Mini_Game.AssemblyInfo.cs
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/obj/Debug/net8.0/Mini_Game.csproj.CoreCompileInputs.cache
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/obj/Debug/net8.0/Mini_Game.sourcelink.json
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/obj/Debug/net8.0/Mini_Game.dll
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/obj/Debug/net8.0/refint/Mini_Game.dll
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/obj/Debug/net8.0/Mini_Game.pdb
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/obj/Debug/net8.0/Mini_Game.genruntimeconfig.cache
+/Users/burakozgen/Documents/devoloper/c# repos/Mini_Game/obj/Debug/net8.0/ref/Mini_Game.dll
